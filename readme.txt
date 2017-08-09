@@ -3,7 +3,7 @@ Contributors: Jasny
 Donate link:
 Tags:
 License: MIT
-License URI: 
+License URI: https://github.com/jasny/woocommerce-login-redirect-to/blob/master/LICENSE
 Requires at least: 3.5
 Tested up to: 3.5
 Stable tag: 1.0.0
